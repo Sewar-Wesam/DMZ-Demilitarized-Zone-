@@ -1,2 +1,2 @@
-# DMZ-Demilitarized-Zone-
+# DMZ ( Demilitarized Zone )
 Unlock your knowledge
