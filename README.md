@@ -10,6 +10,7 @@ In general, DMZ is used for two main goals:
 
 ### Let us walk through this example: 
 
-![image](https://github.com/user-attachments/assets/041f2e16-ee26-4190-bb46-80ec8b9b2905)
+![image](https://github.com/user-attachments/assets/d876c5b7-e552-4897-a122-58219a36c13e)
+
 
 
