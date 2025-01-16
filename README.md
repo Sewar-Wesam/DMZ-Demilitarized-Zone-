@@ -12,5 +12,9 @@ In general, DMZ is used for two main goals:
 
 ![image](https://github.com/user-attachments/assets/d876c5b7-e552-4897-a122-58219a36c13e)
 
-
+#### We want to answer this question: How Traffic Flows in a DMZ Topology  
+- The inbound traffic is the traffic comming from the internet to the DMZ.
+- Firewall permits the traffic that is comming from internet to the DMZ, but blocking it from the internal network resources.
+- The firewall allows this traffic but monitors it for quastionable activity.
+- If DMZ wants to communicate with the internal network, then the firewall restricts with predefined rules to allow only the necessary communications to take place. 
 
